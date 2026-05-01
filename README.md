@@ -40,9 +40,3 @@ This project aims to bridge the gap between complex anime metadata and actionabl
 *   **Quality vs. Popularity:** High popularity doesn't always guarantee a top-tier score, but specific studios consistently deliver high-quality content.
 *   **Data Cleaning:** Handled extensive missing values and "Unknown" entries to ensure model stability.
 *   **Feature Importance:** Popularity and Source were among the strongest predictors of an anime's success.
-
-
-
----
-**Author:** Rana 
-*Data Science Enthusiast | Machine Learning Learner*
